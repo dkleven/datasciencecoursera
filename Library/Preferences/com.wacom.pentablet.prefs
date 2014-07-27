@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root type="map">
+  <CPLLastApp type="integer">0</CPLLastApp>
+  <CPLLastPosition type="map">
+    <X type="integer">-1</X>
+    <Y type="integer">-1</Y>
+    <Z type="integer">0</Z>
+  </CPLLastPosition>
+  <CPLLastTabPane type="integer">0</CPLLastTabPane>
+  <CPLOpened type="string">Never</CPLOpened>
+  <DisplayAsserts type="bool">false</DisplayAsserts>
+  <DriverOn1Off0 type="bool">true</DriverOn1Off0>
+  <ImportFileVersion type="integer">4</ImportFileVersion>
+  <LeftHandedMouse type="bool">false</LeftHandedMouse>
+  <NoStartWarnings type="integer">0</NoStartWarnings>
+  <OSInterface type="map">
+    <ApplicationMap type="map">
+      <AppID0 type="map">
+        <ApplicationLongName type="string"/>
+        <ApplicationName type="string">All Applications</ApplicationName>
+      </AppID0>
+    </ApplicationMap>
+    <ClickSound type="bool">false</ClickSound>
+  </OSInterface>
+  <PTKDisplayBrightness type="integer">2</PTKDisplayBrightness>
+  <ShowSystemTrayIcon type="bool">true</ShowSystemTrayIcon>
+  <SideSwitchPressAndTap type="bool">false</SideSwitchPressAndTap>
+  <TabletArray type="array"/>
+  <TabletAwareApplicationInterface type="map">
+    <NormalizedMaxPressure type="integer">32767</NormalizedMaxPressure>
+  </TabletAwareApplicationInterface>
+</root>

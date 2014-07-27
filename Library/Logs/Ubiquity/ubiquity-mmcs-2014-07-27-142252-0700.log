@@ -1,0 +1,10 @@
+For Apple Internal Use Only; Not for Disclosure/Distribution Outside of Apple.
+
+[info]      2adf5d5be51e [14/07/27 14:22:52.404]  7962.default-queue mmcs_engine_create:464 Created mmcs engine (0x7fe09b000620) 'com.apple.Ubiquity/1.0' com.apple.Dataclass.Ubiquity DebugLevel:0
+[info]      2adf5d6485fc [14/07/27 14:22:52.404]  7962.default-queue mmcs_engine_create:466 mmcs_engine verifySentChunks: true
+[info]      2adf5d64cd78 [14/07/27 14:22:52.404]  7962.default-queue mmcs_engine_create:467 mmcs_engine maxConsecutiveNetworkErrors: 3
+[info]      2adf5d64e2e3 [14/07/27 14:22:52.404]  7962.default-queue mmcs_engine_create:468 mmcs_engine enableGetResume: true
+[info]      2adf5d64f4be [14/07/27 14:22:52.404]  7962.default-queue mmcs_engine_create:469 mmcs_engine enableLocallySatisfiedGets: true
+[info]      2adf5d6505cb [14/07/27 14:22:52.404]  7962.default-queue mmcs_engine_create:470 mmcs_engine enableGetChunks: true
+[info]      2adf5d651735 [14/07/27 14:22:52.404]  7962.default-queue mmcs_engine_create:471 mmcs_engine enableAttemptedPersistedConnections: true
+[info]      2adf5d6528b8 [14/07/27 14:22:52.404]  7962.default-queue mmcs_engine_create:472 mmcs_engine enableCollapsedContainerGets: true
